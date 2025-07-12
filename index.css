@@ -20,7 +20,7 @@ h1 {
 }
 
 p {
-    font-family: 'Digital Numbers', sans-serif;
+  /*  font-family: 'Digital Numbers', sans-serif;*/
     color: #F94F6D;   
     font-size: 80px;
     background-color: #0a0001;                                             
