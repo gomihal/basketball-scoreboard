@@ -61,6 +61,11 @@ button {
     height: 40px;
     border-radius:10%;
     }
+
+    button:hover {
+        cursor:grab
+    }
+
 .reset-btn {
     margin-top: 50px; 
     width: 110px;
